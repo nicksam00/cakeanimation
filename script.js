@@ -293,5 +293,5 @@ setTimeout(() => {
 // Add click event to "Click me" button to open a link in the same tab
 CLICK_ME_BUTTON.addEventListener('click', () => {
   // Replace the URL below with the link you want
-  window.location.href = 'https://example.com';
+  window.location.href = 'https://cardanimation.onrender.com';
 });
